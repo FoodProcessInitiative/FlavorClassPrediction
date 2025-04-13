@@ -16,7 +16,7 @@ This repository accompanies the publication by Y. Nakata, "Flavor Prediction of 
 with numpy 1.23.5, tensorflow 2.12.0, and Deepchem 2.8.1.dev
 
 ## Contents
-- ```/content/drive/My Drive/coffee_dataset.csv```: csv file with IUPACName CanonicalSMILES, and intensity data.
+- ```coffee_dataset.csv```: csv file with IUPACName CanonicalSMILES, and intensity data. Upload this file under directory '/content/drive/My Drive/'
 - ```model240610bk2.zip```: After unzipping, upload the files under model directory '/content/drive/My Drive/model240610bk2'
 - ```pred_radar.ipynb```: jupyternotebook for flavor class prediction
 
