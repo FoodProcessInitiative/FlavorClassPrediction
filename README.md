@@ -7,7 +7,7 @@ Email: yasushi.nakata@omu.ac.jp.
 
 DOI:
 
-This repository accompanies the publication by Y. Nakata, "Flavor Prediction of Pyrazines Using Machine" (now writing). 
+This repository accompanies the publication by Y. Nakata, "Flavor Prediction of Pyrazines Using Machine Learning" (now writing). 
 The GCN model constructed above are available in 'model240610bk2.zip'.
 As an example, we presented the notebook 'pred_radar.ipynb' using this GCN model for creation of thr radar chart of coffee in Figure 3a.
 
