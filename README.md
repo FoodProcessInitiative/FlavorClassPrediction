@@ -7,14 +7,16 @@ Email: yasushi.nakata@omu.ac.jp.
 
 DOI:
 
-This repository accompanies the publication by Y. Nakata, "Flavor Prediction of Pyrazines Using Machine", Journal, 2024. The radar chart of coffee in Figure 3a were created with this notebook 'pred_radar.ipynb'.
+This repository accompanies the publication by Y. Nakata, "Flavor Prediction of Pyrazines Using Machine", Journal, 2024. 
+The GCN model constructed above are available in 'model240610bk2.zip'.
+As an example, we presented the notebook 'pred_radar.ipynb' using this GCN model for creation of thr radar chart of coffee in Figure 3a.
 
 ##Execution environment
 
 - Python 3.11.12 of Google Colaboratory
 
 with numpy 1.23.5, tensorflow 2.12.0, and Deepchem 2.8.1.dev
-
+ 
 ## Contents
 - ```coffee_dataset.csv```: csv file with IUPACName CanonicalSMILES, and intensity data. Upload this file under directory '/content/drive/My Drive/'
 - ```model240610bk2.zip```: After unzipping, upload the files under model directory '/content/drive/My Drive/model240610bk2'
